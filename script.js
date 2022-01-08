@@ -2,6 +2,6 @@ function display(value) {
     document.getElementById("display").value += value;
    }
 
-   function clearScreen() {
+   function clearDisplay() {
     document.getElementById("display").value = "";
    }
